@@ -1,0 +1,7 @@
+{
+  "name": "AI Trend Reminder",
+  "description": "A personal AI agent that delivers daily updates on the latest trends in Artificial Intelligence, helping aspiring developers stay current with actionable learning resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
